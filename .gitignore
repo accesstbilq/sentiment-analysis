@@ -164,4 +164,4 @@ cython_debug/
 
 tfidf_vectorizer.joblib
 random_forest_model.joblib
-logistic_regression_model.joblib'
+logistic_regression_model.joblib
